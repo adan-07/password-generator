@@ -25,6 +25,9 @@ This web application allows users to quickly generate secure passwords according
 - HTML  
 - CSS  
 - JavaScript
+  
+## Check live demo on linked in
+[▶️ View Live Demo on LinkedIn](https://www.linkedin.com/posts/adan07_webdevelopment-javascript-frontenddevelopment-activity-7398903718789873664-PNwM?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF_78QQBT86_75C71T-eqR9lHuyo67xqJjc)
 
 ## Author
 
